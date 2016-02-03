@@ -6,6 +6,7 @@
 body{
   font-family: "Indie Flower",cursive;
   font-size: 1.5em;
+  background-color: #FFFFCC;
 }
 
 h1{
@@ -13,7 +14,6 @@ h1{
   font-weight: 400;
   color: Maroon;
   font-size: 60px;
-
 }
 
 h2{
