@@ -1,0 +1,68 @@
+h1{
+  color: blue;
+  background-color: yellow;
+  font-family: fantasy;
+  margin-left: 400px;
+  margin-right: 500px;
+  text-decoration: line-through;
+
+}
+h3{
+  font-size: 30px;
+  font-family: cursive;
+  background-color: maroon;
+}
+h4{
+  text-decoration: underline;
+  word-spacing: 4em;
+}
+
+h5{
+  letter-spacing: 3px;
+}
+h6{
+  font-weight: 700;
+  font-family: cursive;
+  font-style: italic;
+
+}
+p{
+  margin-top: 15px;
+  width:100px;
+
+}
+
+section{
+margin-right: 15px;
+}
+
+ul{
+  color: blue;
+  border-style: double;
+  border-width: thick;
+
+}
+
+ol{
+  color: maroon;
+  border-style: outset;
+  border-width: medium;
+}
+
+
+img{
+  width: 20em;
+  margin-left: 30%;
+}
+
+footer{
+  font-size: 26px;
+}
+
+section{
+  padding: 50px 30px 50px 80px;
+}
+
+body{
+  background-color: tan;
+}
