@@ -51,12 +51,6 @@ h1{
 #where{
   padding-right: 70px;
 }
-
 #widget{
-  height: 200px;
-  width: 300px;
-  padding-left: 500px;
-  text-align: center;
-  border:5px double #CF7C68;
-  margin-left: 250px;
+padding-left: 340px;
 }
