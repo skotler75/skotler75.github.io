@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body{
+  background-color: #466D84;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li{
+    display:block;
+    text-align: center;
+  padding: 8px 0 8px 16px;
+    text-decoration: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 160px;
+    background-color:#CF7C68;
+    box-sizing: border-box;
+    padding:2px;
+    padding-top: 18px;
+    margin-top: 2px;
+    font-family: "Lobster",cursive;
+  }
+
+nav{
+float: left;
+}
+
+h1{
+  text-align: center;
+  font-family: "Lobster",cursive;
+  font-size: 50px;
+  color: #CF7C68;
+  text-decoration: underline;
+}
+
+p{
+  text-align: center;
+  width: 600px;
+  padding-left: 375px;
+  font-size: 20px;
+}
+a:visited{
+  color: #466D84;
+
+}
+a{
+  color: #466D84;
+}

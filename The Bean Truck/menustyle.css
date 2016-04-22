@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body{
+  background-color: #466D84;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li{
+    display:block;
+    text-align: center;
+    color: #000;
+  padding: 8px 0 8px 16px;
+    text-decoration: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 160px;
+    background-color:#CF7C68;
+    box-sizing: border-box;
+    padding:2px;
+    padding-top: 18px;
+    margin-top: 2px;
+    font-family: "Lobster",cursive;
+  }
+
+nav{
+float: left;
+}
+
+#container{
+  float: right;
+  width: 1150px;
+}
+
+
+h1{
+  text-align: center;
+  margin: auto;
+}
+
+a:visited{
+  color: #466D84;
+
+}
+a{
+  color: #466D84;
+}
+
+
+h3{
+  text-align: center;
+  font-family: "Lobster",cursive;
+  font-size: 30px;
+  color: #CF7C68;
+
+}
+h4{
+  text-align: center;
+  margin: auto;
+}
+
+#Apps{
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+#Soups{
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+#Sandwiches{
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+#BeansnRice{
+  text-align: center;
+font-size: 18px;
+font-weight: bold;
+
+}
+
+p1{
+  text-decoration: underline;
+}
