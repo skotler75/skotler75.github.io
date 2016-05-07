@@ -1,0 +1,17 @@
+#teamtitle{
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  font-family: cursive;
+  font-weight: 500;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
+body{
+  background-color: #0274BE;
+}
+
+#evil{
+  padding-left: 25%;
+}

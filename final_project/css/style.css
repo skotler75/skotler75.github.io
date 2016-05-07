@@ -1,0 +1,20 @@
+body {
+ margin: 0;
+ background-image: url("tropical.jpg");
+ background-size: 1440px 800px;
+ background-repeat:no-repeat;
+ display: compact;
+ }
+
+h1{
+  color: white;
+  font-family: cursive;
+}
+
+.navbar-inverse {
+    background-color: black;
+    border-color: black;
+}
+p{
+  color: white;
+}

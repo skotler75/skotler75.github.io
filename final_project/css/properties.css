@@ -1,0 +1,27 @@
+#propertiestitle{
+  color: black;
+  font-size: 60px;
+  text-align: center;
+  font-family: cursive;
+  font-weight: 500;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
+body{
+  background-color: #0274BE;
+}
+#first{
+  padding-top: 15px;
+  color: white;
+
+}
+
+#second{
+  padding-top: 30px;
+  color: white;
+
+}
+#text{
+  padding-top: 20px;
+}
